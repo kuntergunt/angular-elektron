@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { WorklistselectorComponent } from '../worklistselector/worklistselector.component';
+import { WorklistselectorComponent } from './worklistselector/worklistselector.component';
 import { MatFormField, MatLabel, MatSelect, MatOption } from '@angular/material';
 
 @Component({
